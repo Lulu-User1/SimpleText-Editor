@@ -1,4 +1,4 @@
-# ⚠This Was Made With AI I Did it has a Fun Project)⚠
+# ⚠This Was Made With AI (I Did it has a Fun Project)⚠
 # SimpleText-Editor
 ## This is a Website Where you can create txt files and save them (Open Source)
 
